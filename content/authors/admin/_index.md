@@ -45,16 +45,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'JStoddardJr@knights.ucf.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/JimSto
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/stoddard2112
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,5 +67,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-More things about me.
+Hello.  My name is James Stoddard.  I am a PhD student in the Texts and Technology program at the University of Central Florida.  My area of specialization is public history.  I'm researching ways to bring veteran's and military history to the public through digital technology.
