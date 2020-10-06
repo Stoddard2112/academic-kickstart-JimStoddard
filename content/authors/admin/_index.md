@@ -22,13 +22,13 @@ bio: My research interests include public history, veteran's history, military h
 
 interests:
 - Public History
-- Veterna's History
+- Veteran's History
 - Military History
 - Podcasts
 
 education:
   courses:
-  - course: PhD in Texts and Technology (in progress)
+  - course: PhD in Texts and Technology 
     institution: University of Central Florida
     year: In Progress
   - course: MA in History
