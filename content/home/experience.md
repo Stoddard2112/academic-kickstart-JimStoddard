@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-08-01"
   date_end = ""
   description = """Assisted in teaching US History, 1492 to 1877
+  
   Responsibilities include:
   
   * Lecturing 
