@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Orlando, Florida"
   date_start = "Aug 2020"
   date_end = ""
-  description = """Assisted in teaching US History, 1492 to 1877."""
+  description = """Assisted in teaching US History, 1492 to 1877.
   Responsibilities include:
   
   * Lecturing
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   location = "Orlando, Florida"
   date_start = "Aug 2020"
   date_end = ""
-  description = """Edited biographies of Florida veterans interred in National Cemeteries."""
+  description = """Edited biographies of Florida veterans interred in National Cemeteries.
   Responsibilities include:
   
   * Editing
