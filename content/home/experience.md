@@ -34,12 +34,19 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "History Department, Universoty of Central Florida"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics.""" 
+  location = "Florida"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """Edited biographies of veterans interred in National Cemeteries in Florida
+  
+  Responsibilities include:
+  
+  * Editing 
+  * Researching
+  * Writing 
+  """
 
 +++
