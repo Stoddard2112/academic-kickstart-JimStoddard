@@ -19,12 +19,12 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Teaching Assistant"
-  company = "History Department, Universoty of Central Florida"
+  company = "History Department, University of Central Florida"
   company_url = ""
   location = "Florida"
   date_start = "2020-08-01"
   date_end = ""
-  description = """Assisted in teaching US History, 1492 to 1877
+  description = """Assisted in teaching US History, 1492 to 1877.
   
   Responsibilities include:
   
@@ -35,18 +35,34 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Graduate Research Assistant"
-  company = "History Department, Universoty of Central Florida"
+  company = "History Department, University of Central Florida"
   company_url = ""
   location = "Florida"
   date_start = "2020-08-01"
   date_end = ""
-  description = """Edited biographies of veterans interred in National Cemeteries in Florida
+  description = """Edited biographies of veterans interred in National Cemeteries in Florida.
   
   Responsibilities include:
   
   * Editing 
   * Researching
   * Writing 
+  """
+
+[[experience]]
+  title = "Research Assistant"
+  company = "Veterans Legacy Program, University of Central Florida"
+  company_url = "https://vlp.cah.ucf.edu/"
+  location = "Florida"
+  date_start = "2017-03-01"
+  date_end = "2020-05-01"
+  description = """Researched, wrote, and edited biographies of veterans interred in National Cemeteries in Florida.  Wrote and edited metadata for related website.
+  
+  Responsibilities include:
+  
+  * Leading 
+  * Organizing
+  * Metadata writing 
   """
 
 +++
