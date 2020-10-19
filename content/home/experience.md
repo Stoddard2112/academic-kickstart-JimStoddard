@@ -44,6 +44,7 @@ date_format = "Jan 2006"
   
   * Editing
   * Researching
-  * Writing 
+  * Writing
+  """ 
 
 +++
