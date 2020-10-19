@@ -18,27 +18,32 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "PhD Student, Texts & Technology"
-  company = "University of Central Florida"
+  title = "Graduate Teaching Assistant"
+  company = "History Department, University of Central Florida"
   company_url = ""
   location = "Orlando, Florida"
   date_start = "2020-08-01"
   date_end = ""
-  description = """
+  description = """Assisted in teaching US History, 1492 to 1877."""
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Lecturing
+  * Grading
+  * Counseling 
   """
 
 [[experience]]
-  title = "MA Student"
-  company = "University of Central Florida"
+  title = "Graduate Research Assistant"
+  company = "History Department, University of Central Florida"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Orlando, Florida"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """Edited biographies of Florida veterans interred in National Cemeteries."""
+  Responsibilities include:
+  
+  * Editing
+  * Researching
+  * Writing 
 
 +++
